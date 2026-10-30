@@ -83,3 +83,11 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 ### How to Cite it:
 
 **SILVA, Ergon Cugler de Moraes. Finder: Text Similarity Clustering. (feb) 2024. Avaliable at: <a>https://github.com/ergoncugler/finder-text-similarity-clustering/<a>.**
+
+___
+
+## License
+
+The code in this repository are released under the [MIT License](LICENSE). You are free to use and adapt them, provided you give appropriate credit. If this work supports your research, please cite it.
+
+Developed by [Ergon Cugler](https://ergoncugler.com).
