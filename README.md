@@ -82,7 +82,7 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 
 ### How to Cite it:
 
-**SILVA, Ergon Cugler de Moraes. Finder: Text Similarity Clustering. (feb) 2024. Avaliable at: <a>https://github.com/ergoncugler/finder-text-similarity-clustering/<a>.**
+**SILVA, Ergon Cugler de Moraes. Finder: Text Similarity Clustering. (feb) 2024. Available at: <a>https://github.com/ergoncugler/finder-text-similarity-clustering/<a>.**
 
 ___
 
